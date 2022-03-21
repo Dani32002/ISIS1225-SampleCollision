@@ -1,3 +1,6 @@
+Nombre: Juan Diego Acuña, Correo: jd.acuna@uniandes.edu.co, Código: 202121453
+Nombre: Daniel Escalante Perez, Correo: d.escalante@uniandes.edu.co, Código: 202122384
+
 #ISIS1225 - Estructura de un proyecto
 
 Este proyecto busca mostrar una posible forma de organizar el código que se va a desarrollar en los proyectos del curso.
